@@ -6,6 +6,6 @@ Template for creating library repository
 
 Clone project with [`degit`](https://github.com/Rich-Harris/degit)
 
-```
-degit imomaliev/library-template/template
+```console
+$ degit imomaliev/library-template/template
 ```
